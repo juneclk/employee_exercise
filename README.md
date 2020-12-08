@@ -1,4 +1,4 @@
-# employee_exercise
-* Download the emp_info.csv
-* Provide an idea of Modelling the following data set provided in the excercise.
-* You are free to use any modelling tool or even microsoft power point to showcase the idea. 
+# Data modeling exercise
+* Download ‘emp_info.csv’.
+* Based on the data inside ‘emp_info.csv’ file, please submit a data model idea that could help in denormalising the dataset.
+* You may use any modelling tool, PPT deck or any other media to showcase your idea.
