@@ -1,0 +1,10 @@
+﻿id,emp_title,emp_experience,home_ownership,annual_inc,verification_status,emp_name,age,curr_company,postal_code
+112435993,Manager,12+ years,OWN,10000,Not Verified,Haris,42,Pfizer,543123
+112290210,teacher,10+ years,MORTGAGE,94000,Not Verified,Bob,39,Coco-cola,542191
+112436985,Front Office,7 years,MORTGAGE,46350,Not Verified,Alex,31,HP,534531
+112439006,Manager,10+ years,RENT,44000,Source Verified,Chris,38,IBM,789012
+112438929,Paramedic,10+ years,MORTGAGE,85000,Source Verified,Mark,40,Cipla,562341
+112230200,Teacher,10+ years,MORTGAGE,70000,Not Verified,Jane,41,Selokah,569082
+112210041,Office Clerk,7 years,MORTGAGE,37107.19,Source Verified,Peter,35,US Tax Inc,458951
+112360031,PROGRAM DIRECTOR,6 years,RENT,69800,Not Verified,Mark,36,IBM,673412
+112038251,Solutions Architect,6 years,OWN,153000,Not Verified,Liza,31,Microsoft,673412
